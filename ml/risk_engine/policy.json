@@ -1,0 +1,7 @@
+{
+  "supervised_weight": 0.70,
+  "monitor_threshold": 0.35,
+  "verify_threshold": 0.55,
+  "block_threshold": 0.75,
+  "critical_threshold": 0.90
+}
